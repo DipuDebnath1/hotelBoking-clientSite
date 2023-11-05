@@ -1,0 +1,84 @@
+[
+    {
+      "id": 1,
+      "img": "https://i.ibb.co/YZmjmBH/hotel9.jpg",
+      "title": "Deluxe Suite",
+      "description": "Spacious and elegant Deluxe Suite with modern amenities and a stunning view. Perfect for a relaxing getaway.",
+      "price": 199.99,
+      "available": true,
+      "discounted_price": 159.99
+    },
+    {
+      "id": 2,
+      "img": "https://i.ibb.co/8Y108Nk/hotel8.jpg",
+      "title": "Standard Room",
+      "description": "Cozy and comfortable Standard Room, ideal for budget-conscious travelers. Close to local attractions.",
+      "price": 129.99,
+      "available": false,
+      "discounted_price": 109.99
+    },
+    {
+      "id": 3,
+      "img": "https://i.ibb.co/mSfGKkN/hotel7.jpg",
+      "title": "Luxury Villa",
+      "description": "Experience luxury and privacy in our exquisite Luxury Villa. Your own private paradise with a pool and beach access.",
+      "price": 349.99,
+      "available": true,
+      "discounted_price": 299.99
+    },
+    {
+      "id": 4,
+      "img": "https://i.ibb.co/4sYZ01h/hotel6.jpg",
+      "title": "Family Suite",
+      "description": "Spacious Family Suite, perfect for a family vacation. Separate bedrooms and a kitchenette for your convenience.",
+      "price": 279.99,
+      "available": true,
+      "discounted_price": 249.99
+    },
+    {
+      "id": 5,
+      "img": "https://i.ibb.co/RvVtpQY/hotel5.jpg",
+      "title": "Economy Room",
+      "description": "Budget-friendly Economy Room with essential amenities. Ideal for solo travelers or short stays.",
+      "price": 79.99,
+      "available": false,
+      "discounted_price": 69.99
+    },
+    {
+      "id": 6,
+      "img": "https://i.ibb.co/1LfMC33/hotel4.jpg",
+      "title": "Penthouse Suite",
+      "description": "Experience the height of luxury in our Penthouse Suite. Spacious, opulent, and with panoramic city views.",
+      "price": 499.99,
+      "available": true,
+      "discounted_price": 449.99
+    },
+    {
+      "id": 7,
+      "img": "https://i.ibb.co/hydxq8F/hotel3.jpg",
+      "title": "Beachfront Bungalow",
+      "description": "Escape to a Beachfront Bungalow for a tropical paradise experience. Direct beach access and stunning sunsets.",
+      "price": 299.99,
+      "available": true,
+      "discounted_price": 259.99
+    },
+    {
+      "id": 8,
+      "img": "https://i.ibb.co/3TdK9Gt/hotel2.jpg",
+      "title": "Executive Suite",
+      "description": "The Executive Suite offers a blend of comfort and style. Ideal for business travelers and couples.",
+      "price": 179.99,
+      "available": false,
+      "discounted_price": 159.99
+    },
+    {
+      "id": 9,
+      "img": "https://i.ibb.co/3TdK9Gt/hotel2.jpg",
+      "title": "Mountain View Chalet",
+      "description": "Embrace nature in a Mountain View Chalet. Cozy and rustic, perfect for mountain enthusiasts.",
+      "price": 149.99,
+      "available": true,
+      "discounted_price": 129.99
+    }
+  ]
+  
