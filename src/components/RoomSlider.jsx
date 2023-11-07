@@ -13,7 +13,7 @@ const RoomSlider = () => {
     return (
         <div>
             <div>
-                <h2 className='text-4xl py-5 text-start font-semibold'> Gallery</h2>
+                <h2 className='text-4xl py-5 text-start font-semibold'> Featured Rooms</h2>
             </div>
              <Swiper
         slidesPerView={1}

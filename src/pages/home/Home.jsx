@@ -1,4 +1,5 @@
 import Banner from "../../components/Banner";
+import Location from "../../components/Location";
 import RoomCard from "../../components/RoomCard";
 import RoomSlider from "../../components/RoomSlider";
 
@@ -8,6 +9,7 @@ const Home = () => {
            <Banner></Banner>
            <RoomSlider></RoomSlider>
            <RoomCard></RoomCard>
+           <Location></Location>
         </div>
     );
 };
