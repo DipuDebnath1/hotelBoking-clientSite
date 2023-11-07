@@ -9,6 +9,7 @@ import MyBooking from './pages/booking/MyBooking.jsx'
 import LoginFrom from './pages/form/Login.jsx'
 import AuthProvider from '../AuthProvider.jsx'
 import Register from './pages/form/Register.jsx'
+import PrivetRoute from '../PrivetRoute.jsx'
 
 
 const router = createBrowserRouter([
@@ -26,7 +27,7 @@ const router = createBrowserRouter([
       },
       {
         path: '/mybooking',
-        element: <MyBooking></MyBooking>
+        element:<PrivetRoute> <MyBooking></MyBooking></PrivetRoute>
       },
 
       {
