@@ -6,24 +6,24 @@ import { AuthContext } from "../../../AuthProvider";
 
 
 const LoginFrom = () => {
-    // const {Login} = useContext(AuthContext)
+    const {Login} = useContext(AuthContext)
 
-    // const handleSignIn = e =>{
-    //     e.preventDefault()
-    //     const form = e.target
-    //     const password = form.password.value
-    //     const email = form.email.value
+    const handleSignIn = e =>{
+        e.preventDefault()
+        const form = e.target
+        const password = form.password.value
+        const email = form.email.value
 
-    //     Login(email,password)
-    //    .then(res=>{
-    //     console.log(res.user);
-    //     form.reset()
-    //    })
-    //    .catch(err=>{
-    //     console.log(err.message);
-    //    })
+        Login(email,password)
+       .then(res=>{
+        console.log(res.user);
+        form.reset()
+       })
+       .catch(err=>{
+        console.log(err.message);
+       })
     
-    // }
+    }
     return (
         
            
